@@ -1,0 +1,54 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+/* Estilo para el logo en la esquina */
+.logo-canal {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 150px; /* Ajusta el tamaño según prefieras */
+}
+
+/* Estilo "Boca Juniors" para el chatbot */
+#chat-container {
+    width: 350px;
+    background-color: #0033a0; /* Azul de Boca */
+    border: 4px solid #ffcc00; 
+    border-radius: 15px;
+    padding: 20px;
+    color: white;
+    box-shadow: 0px 4px 15px rgba(0,0,0,0.3);
+}
+
+#pantalla-chat {
+    min-height: 100px;
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #ffffff; 
+    color: #0033a0;
+    border-radius: 10px;
+}
+
+/* Botones estilo Boca */
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #ffcc00;
+    color: #0033a0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+button:hover {
+    background-color: #e6b800; 
+}
