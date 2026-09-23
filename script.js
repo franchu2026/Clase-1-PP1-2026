@@ -9,3 +9,5 @@ function mostrarRespuesta(opcion) {
         pantalla.innerHTML = "<p>Llámanos al 0800-TURISMO.</p> <button onclick='location.reload()'>Volver al menú</button>";
     }
 }
+
+// jaja hola xd
