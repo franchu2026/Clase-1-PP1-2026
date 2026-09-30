@@ -1,8 +1,8 @@
-#Chatbot PP1
-##Objetivo:
-###Chatbot que responde preguntas frecuentes
-##Tecnologías
+#Chatbot PP1#
+##Objetivo:##
+###Chatbot que responde preguntas frecuentes###
+##Tecnologías##
 *HTML*
 *CSS*
 *JS*
-**Nota: este proyecto corresponde a la materia PP1
+**Nota: este proyecto corresponde a la materia PP1**
